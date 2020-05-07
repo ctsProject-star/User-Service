@@ -1,2 +1,2 @@
 # User-Service
-Spring starter project
+Spring starter project, Microservice: User-Service, for logging credentials 
